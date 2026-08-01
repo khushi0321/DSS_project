@@ -1,0 +1,15 @@
+supplier_id,total_orders,on_time_pct,avg_unit_cost,supplier_name,country
+S001,22,63.6,524.6972727272728,Toor Inc Electronics,China
+S002,25,76.0,707.2096,"Dass, Magar and Dugar Trading Co.",India
+S003,19,68.4,475.9378947368421,Oommen Ltd Trading Co.,China
+S004,16,75.0,460.8575,Varughese-Kata Trading Co.,China
+S005,16,75.0,406.018125,"Gala, Agate and Ravi Trading Co.",India
+S006,23,73.9,412.95086956521743,Sekhon-Radhakrishnan Electronics,India
+S007,21,71.4,354.42285714285714,Goda-Anand Trading Co.,China
+S008,21,66.7,1028.0042857142857,Sachar-Sen Electronics,China
+S009,19,78.9,518.9552631578948,Sathe Ltd Trading Co.,China
+S010,25,60.0,317.5956,"Peri, Grewal and Bhavsar Trading Co.",India
+S011,22,63.6,584.8445454545455,Karpe and Sons Trading Co.,India
+S012,29,69.0,438.3624137931034,"Das, Misra and Bava Electronics",China
+S013,16,75.0,523.11875,Sarma LLC Electronics,India
+S014,18,61.1,491.3983333333333,"Issac, Bawa and Rau Trading Co.",India

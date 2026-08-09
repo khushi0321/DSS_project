@@ -1,0 +1,180 @@
+product_id,product_name,brand,warehouse_location,current_stock_qty,reorder_level,projected_30d_demand,alert_status
+P0001,iPhone 11 OLED Display Combo,Apple,Surat Main Warehouse,22,35,13.5,REORDER NOW - Below threshold
+P0002,iPhone 11 LCD Display Combo,Apple,Ahmedabad Depot,90,50,9.5,Stock OK
+P0003,iPhone 11 Charging Port Flex,Apple,Ahmedabad Depot,44,35,30.0,Stock OK
+P0004,iPhone 11 Battery,Apple,Surat Main Warehouse,25,32,20.0,REORDER NOW - Below threshold
+P0005,iPhone 11 Speaker Module,Apple,Surat Main Warehouse,56,44,26.5,Stock OK
+P0006,iPhone 11 SIM Tray,Apple,Ahmedabad Depot,107,55,17.0,Stock OK
+P0007,iPhone 12 Camera Module (Front),Apple,Ahmedabad Depot,28,26,26.5,Stock OK
+P0008,iPhone 12 Microphone Flex,Apple,Surat Main Warehouse,76,46,10.0,Stock OK
+P0009,iPhone 12 Charging Port Flex,Apple,Surat Main Warehouse,49,43,11.5,Stock OK
+P0010,iPhone 12 LCD Display Combo,Apple,Ahmedabad Depot,97,55,8.0,Stock OK
+P0011,iPhone 13 Back Glass Panel,Apple,Ahmedabad Depot,57,29,8.5,Stock OK
+P0012,iPhone 13 Microphone Flex,Apple,Surat Main Warehouse,75,26,19.5,Stock OK
+P0013,iPhone 13 Charging Port Flex,Apple,Surat Main Warehouse,50,36,29.5,Stock OK
+P0014,iPhone 13 LCD Display Combo,Apple,Surat Main Warehouse,55,28,21.0,Stock OK
+P0015,iPhone 13 Camera Module (Front),Apple,Ahmedabad Depot,58,38,14.5,Stock OK
+P0016,iPhone 13 Pro Charging Port Flex,Apple,Ahmedabad Depot,85,40,11.5,Stock OK
+P0017,iPhone 13 Pro OLED Display Combo,Apple,Surat Main Warehouse,20,23,19.0,REORDER NOW - Below threshold
+P0018,iPhone 13 Pro Battery,Apple,Ahmedabad Depot,71,38,27.5,Stock OK
+P0019,iPhone 13 Pro Power Button Flex,Apple,Surat Main Warehouse,74,52,19.0,Stock OK
+P0020,iPhone 14 Microphone Flex,Apple,Surat Main Warehouse,82,56,19.0,Stock OK
+P0021,iPhone 14 Power Button Flex,Apple,Surat Main Warehouse,85,56,25.5,Stock OK
+P0022,iPhone 14 Touch Screen Digitizer,Apple,Ahmedabad Depot,72,45,18.0,Stock OK
+P0023,iPhone 14 Speaker Module,Apple,Ahmedabad Depot,50,35,33.5,Stock OK
+P0024,iPhone 14 Pro Battery,Apple,Ahmedabad Depot,46,28,40.0,Stock OK
+P0025,iPhone 14 Pro LCD Display Combo,Apple,Ahmedabad Depot,97,44,20.5,Stock OK
+P0026,iPhone 14 Pro Back Glass Panel,Apple,Surat Main Warehouse,87,45,33.5,Stock OK
+P0027,iPhone 14 Pro Camera Module (Rear),Apple,Surat Main Warehouse,47,20,29.0,Stock OK
+P0028,iPhone 15 Touch Screen Digitizer,Apple,Surat Main Warehouse,47,38,14.0,Stock OK
+P0029,iPhone 15 Charging Port Flex,Apple,Surat Main Warehouse,61,53,26.5,Stock OK
+P0030,iPhone 15 SIM Tray,Apple,Surat Main Warehouse,53,23,23.0,Stock OK
+P0031,iPhone 15 Battery,Apple,Surat Main Warehouse,49,21,8.0,Stock OK
+P0032,iPhone 15 Power Button Flex,Apple,Surat Main Warehouse,86,38,5.0,Stock OK
+P0033,iPad 9th Gen Power Button Flex,Apple,Surat Main Warehouse,47,40,21.0,Stock OK
+P0034,iPad 9th Gen Camera Module (Rear),Apple,Surat Main Warehouse,83,59,14.0,Stock OK
+P0035,iPad 9th Gen Microphone Flex,Apple,Ahmedabad Depot,55,59,18.5,REORDER NOW - Below threshold
+P0036,iPad 9th Gen OLED Display Combo,Apple,Surat Main Warehouse,23,21,23.5,REORDER SOON - Demand exceeds stock
+P0037,Galaxy A12 Charging Port Flex,Samsung,Ahmedabad Depot,75,37,32.5,Stock OK
+P0038,Galaxy A12 Power Button Flex,Samsung,Surat Main Warehouse,62,48,25.5,Stock OK
+P0039,Galaxy A12 Back Glass Panel,Samsung,Ahmedabad Depot,72,40,23.0,Stock OK
+P0040,Galaxy A12 OLED Display Combo,Samsung,Ahmedabad Depot,65,46,15.5,Stock OK
+P0041,Galaxy A12 SIM Tray,Samsung,Ahmedabad Depot,49,29,14.5,Stock OK
+P0042,Galaxy A12 Battery,Samsung,Ahmedabad Depot,25,32,16.0,REORDER NOW - Below threshold
+P0043,Galaxy A32 Touch Screen Digitizer,Samsung,Ahmedabad Depot,40,26,27.0,Stock OK
+P0044,Galaxy A32 Speaker Module,Samsung,Ahmedabad Depot,0,30,25.5,REORDER NOW - Below threshold
+P0045,Galaxy A32 Power Button Flex,Samsung,Surat Main Warehouse,57,41,20.5,Stock OK
+P0046,Galaxy A32 LCD Display Combo,Samsung,Surat Main Warehouse,39,48,25.5,REORDER NOW - Below threshold
+P0047,Galaxy A32 Back Glass Panel,Samsung,Ahmedabad Depot,114,60,15.5,Stock OK
+P0048,Galaxy A52 Speaker Module,Samsung,Ahmedabad Depot,50,23,18.0,Stock OK
+P0049,Galaxy A52 Touch Screen Digitizer,Samsung,Surat Main Warehouse,54,30,9.0,Stock OK
+P0050,Galaxy A52 Power Button Flex,Samsung,Surat Main Warehouse,82,35,10.0,Stock OK
+P0051,Galaxy A52 Camera Module (Front),Samsung,Surat Main Warehouse,23,28,14.5,REORDER NOW - Below threshold
+P0052,Galaxy M31 Charging Port Flex,Samsung,Surat Main Warehouse,91,38,2.5,Stock OK
+P0053,Galaxy M31 Camera Module (Rear),Samsung,Surat Main Warehouse,83,43,14.5,Stock OK
+P0054,Galaxy M31 Back Glass Panel,Samsung,Ahmedabad Depot,68,49,13.5,Stock OK
+P0055,Galaxy M31 Camera Module (Front),Samsung,Ahmedabad Depot,61,26,17.0,Stock OK
+P0056,Galaxy M31 Speaker Module,Samsung,Surat Main Warehouse,42,43,25.5,REORDER NOW - Below threshold
+P0057,Galaxy M31 LCD Display Combo,Samsung,Surat Main Warehouse,48,43,12.5,Stock OK
+P0058,Galaxy M52 Power Button Flex,Samsung,Surat Main Warehouse,41,36,9.5,Stock OK
+P0059,Galaxy M52 Camera Module (Front),Samsung,Surat Main Warehouse,68,53,18.0,Stock OK
+P0060,Galaxy M52 Battery,Samsung,Surat Main Warehouse,56,52,9.5,Stock OK
+P0061,Galaxy M52 Speaker Module,Samsung,Surat Main Warehouse,85,41,13.5,Stock OK
+P0062,Galaxy M52 Touch Screen Digitizer,Samsung,Surat Main Warehouse,63,46,12.0,Stock OK
+P0063,Galaxy S21 LCD Display Combo,Samsung,Ahmedabad Depot,77,47,28.5,Stock OK
+P0064,Galaxy S21 Power Button Flex,Samsung,Surat Main Warehouse,69,54,18.5,Stock OK
+P0065,Galaxy S21 OLED Display Combo,Samsung,Surat Main Warehouse,10,31,15.5,REORDER NOW - Below threshold
+P0066,Galaxy S21 SIM Tray,Samsung,Surat Main Warehouse,90,57,9.5,Stock OK
+P0067,Galaxy S21 Camera Module (Rear),Samsung,Surat Main Warehouse,38,51,19.5,REORDER NOW - Below threshold
+P0068,Galaxy S21 Back Glass Panel,Samsung,Ahmedabad Depot,54,37,18.0,Stock OK
+P0069,Galaxy S22 Power Button Flex,Samsung,Ahmedabad Depot,62,60,15.5,Stock OK
+P0070,Galaxy S22 Speaker Module,Samsung,Surat Main Warehouse,125,57,8.5,Stock OK
+P0071,Galaxy S22 LCD Display Combo,Samsung,Ahmedabad Depot,66,32,4.0,Stock OK
+P0072,Galaxy S22 OLED Display Combo,Samsung,Ahmedabad Depot,39,25,13.5,Stock OK
+P0073,Galaxy Note 20 Charging Port Flex,Samsung,Ahmedabad Depot,67,28,30.0,Stock OK
+P0074,Galaxy Note 20 Camera Module (Front),Samsung,Ahmedabad Depot,50,45,13.5,Stock OK
+P0075,Galaxy Note 20 SIM Tray,Samsung,Ahmedabad Depot,93,55,22.0,Stock OK
+P0076,Galaxy Note 20 Camera Module (Rear),Samsung,Ahmedabad Depot,62,39,24.5,Stock OK
+P0077,Galaxy Note 20 Power Button Flex,Samsung,Ahmedabad Depot,48,29,25.0,Stock OK
+P0078,Redmi Note 10 LCD Display Combo,Xiaomi,Surat Main Warehouse,68,29,20.5,Stock OK
+P0079,Redmi Note 10 Speaker Module,Xiaomi,Surat Main Warehouse,68,36,7.0,Stock OK
+P0080,Redmi Note 10 OLED Display Combo,Xiaomi,Surat Main Warehouse,59,36,26.0,Stock OK
+P0081,Redmi Note 10 Touch Screen Digitizer,Xiaomi,Ahmedabad Depot,14,32,6.5,REORDER NOW - Below threshold
+P0082,Redmi Note 11 Camera Module (Rear),Xiaomi,Surat Main Warehouse,33,35,13.5,REORDER NOW - Below threshold
+P0083,Redmi Note 11 Power Button Flex,Xiaomi,Ahmedabad Depot,50,35,10.0,Stock OK
+P0084,Redmi Note 11 Microphone Flex,Xiaomi,Ahmedabad Depot,37,24,27.0,Stock OK
+P0085,Redmi Note 11 Speaker Module,Xiaomi,Ahmedabad Depot,41,43,23.5,REORDER NOW - Below threshold
+P0086,Redmi Note 12 LCD Display Combo,Xiaomi,Surat Main Warehouse,99,34,25.5,Stock OK
+P0087,Redmi Note 12 Camera Module (Front),Xiaomi,Surat Main Warehouse,70,27,12.0,Stock OK
+P0088,Redmi Note 12 Microphone Flex,Xiaomi,Surat Main Warehouse,55,29,20.0,Stock OK
+P0089,Redmi Note 12 OLED Display Combo,Xiaomi,Ahmedabad Depot,67,44,7.0,Stock OK
+P0090,Mi 11X SIM Tray,Xiaomi,Surat Main Warehouse,49,36,19.5,Stock OK
+P0091,Mi 11X Charging Port Flex,Xiaomi,Surat Main Warehouse,67,58,14.5,Stock OK
+P0092,Mi 11X Microphone Flex,Xiaomi,Surat Main Warehouse,85,56,16.5,Stock OK
+P0093,Mi 11X Speaker Module,Xiaomi,Ahmedabad Depot,35,20,11.0,Stock OK
+P0094,Mi 11X LCD Display Combo,Xiaomi,Ahmedabad Depot,12,25,18.0,REORDER NOW - Below threshold
+P0095,Mi 11X Back Glass Panel,Xiaomi,Surat Main Warehouse,60,36,18.5,Stock OK
+P0096,POCO X3 Charging Port Flex,Xiaomi,Ahmedabad Depot,34,25,17.5,Stock OK
+P0097,POCO X3 Speaker Module,Xiaomi,Surat Main Warehouse,0,26,23.5,REORDER NOW - Below threshold
+P0098,POCO X3 Camera Module (Front),Xiaomi,Surat Main Warehouse,42,40,15.0,Stock OK
+P0099,POCO X3 SIM Tray,Xiaomi,Ahmedabad Depot,78,58,21.5,Stock OK
+P0100,POCO X3 LCD Display Combo,Xiaomi,Surat Main Warehouse,96,39,26.5,Stock OK
+P0101,POCO X3 Microphone Flex,Xiaomi,Ahmedabad Depot,80,46,18.0,Stock OK
+P0102,POCO M4 Pro Touch Screen Digitizer,Xiaomi,Surat Main Warehouse,30,38,24.0,REORDER NOW - Below threshold
+P0103,POCO M4 Pro Speaker Module,Xiaomi,Surat Main Warehouse,42,22,33.5,Stock OK
+P0104,POCO M4 Pro LCD Display Combo,Xiaomi,Surat Main Warehouse,23,36,13.5,REORDER NOW - Below threshold
+P0105,POCO M4 Pro Back Glass Panel,Xiaomi,Surat Main Warehouse,77,37,21.5,Stock OK
+P0106,POCO M4 Pro SIM Tray,Xiaomi,Surat Main Warehouse,38,32,18.5,Stock OK
+P0107,POCO M4 Pro Battery,Xiaomi,Surat Main Warehouse,77,53,13.0,Stock OK
+P0108,A15 SIM Tray,Oppo,Surat Main Warehouse,67,27,23.5,Stock OK
+P0109,A15 Touch Screen Digitizer,Oppo,Surat Main Warehouse,32,39,15.5,REORDER NOW - Below threshold
+P0110,A15 Battery,Oppo,Surat Main Warehouse,33,41,21.0,REORDER NOW - Below threshold
+P0111,A15 Power Button Flex,Oppo,Surat Main Warehouse,39,34,7.5,Stock OK
+P0112,A15 Speaker Module,Oppo,Surat Main Warehouse,80,40,22.5,Stock OK
+P0113,A15 Microphone Flex,Oppo,Surat Main Warehouse,41,48,26.0,REORDER NOW - Below threshold
+P0114,A54 Battery,Oppo,Surat Main Warehouse,1,39,32.0,REORDER NOW - Below threshold
+P0115,A54 Camera Module (Front),Oppo,Ahmedabad Depot,62,48,31.0,Stock OK
+P0116,A54 Back Glass Panel,Oppo,Surat Main Warehouse,89,52,18.5,Stock OK
+P0117,A54 Charging Port Flex,Oppo,Ahmedabad Depot,93,46,13.5,Stock OK
+P0118,A74 Power Button Flex,Oppo,Surat Main Warehouse,74,56,14.5,Stock OK
+P0119,A74 Speaker Module,Oppo,Ahmedabad Depot,26,23,11.5,Stock OK
+P0120,A74 Camera Module (Rear),Oppo,Ahmedabad Depot,96,49,18.0,Stock OK
+P0121,A74 SIM Tray,Oppo,Surat Main Warehouse,19,38,9.5,REORDER NOW - Below threshold
+P0122,A74 Back Glass Panel,Oppo,Ahmedabad Depot,71,53,8.5,Stock OK
+P0123,Reno 6 Speaker Module,Oppo,Surat Main Warehouse,39,24,25.0,Stock OK
+P0124,Reno 6 OLED Display Combo,Oppo,Surat Main Warehouse,56,32,13.0,Stock OK
+P0125,Reno 6 Camera Module (Rear),Oppo,Surat Main Warehouse,43,36,18.5,Stock OK
+P0126,Reno 6 Battery,Oppo,Ahmedabad Depot,66,44,17.0,Stock OK
+P0127,Reno 6 Charging Port Flex,Oppo,Ahmedabad Depot,10,40,20.5,REORDER NOW - Below threshold
+P0128,Reno 6 LCD Display Combo,Oppo,Ahmedabad Depot,28,28,24.5,REORDER NOW - Below threshold
+P0129,Reno 7 SIM Tray,Oppo,Surat Main Warehouse,82,49,24.5,Stock OK
+P0130,Reno 7 Charging Port Flex,Oppo,Ahmedabad Depot,55,50,7.5,Stock OK
+P0131,Reno 7 Speaker Module,Oppo,Ahmedabad Depot,35,23,30.0,Stock OK
+P0132,Reno 7 Power Button Flex,Oppo,Ahmedabad Depot,64,37,19.0,Stock OK
+P0133,Y12 Microphone Flex,Vivo,Surat Main Warehouse,44,34,18.0,Stock OK
+P0134,Y12 SIM Tray,Vivo,Surat Main Warehouse,75,48,15.5,Stock OK
+P0135,Y12 Charging Port Flex,Vivo,Ahmedabad Depot,34,36,20.0,REORDER NOW - Below threshold
+P0136,Y12 Camera Module (Rear),Vivo,Ahmedabad Depot,25,20,18.5,Stock OK
+P0137,Y20 Speaker Module,Vivo,Surat Main Warehouse,64,35,12.0,Stock OK
+P0138,Y20 Camera Module (Front),Vivo,Surat Main Warehouse,54,34,31.5,Stock OK
+P0139,Y20 Touch Screen Digitizer,Vivo,Ahmedabad Depot,76,59,16.0,Stock OK
+P0140,Y20 OLED Display Combo,Vivo,Ahmedabad Depot,41,25,17.0,Stock OK
+P0141,Y33s LCD Display Combo,Vivo,Surat Main Warehouse,104,60,16.0,Stock OK
+P0142,Y33s SIM Tray,Vivo,Ahmedabad Depot,17,39,21.5,REORDER NOW - Below threshold
+P0143,Y33s Battery,Vivo,Surat Main Warehouse,53,20,15.0,Stock OK
+P0144,Y33s Camera Module (Front),Vivo,Ahmedabad Depot,24,21,19.0,Stock OK
+P0145,V21 Power Button Flex,Vivo,Surat Main Warehouse,53,30,11.0,Stock OK
+P0146,V21 LCD Display Combo,Vivo,Ahmedabad Depot,95,48,11.0,Stock OK
+P0147,V21 OLED Display Combo,Vivo,Ahmedabad Depot,23,34,25.0,REORDER NOW - Below threshold
+P0148,V21 Camera Module (Rear),Vivo,Surat Main Warehouse,68,55,22.5,Stock OK
+P0149,V23 Power Button Flex,Vivo,Surat Main Warehouse,57,42,12.5,Stock OK
+P0150,V23 Speaker Module,Vivo,Ahmedabad Depot,51,45,16.5,Stock OK
+P0151,V23 SIM Tray,Vivo,Surat Main Warehouse,72,25,7.0,Stock OK
+P0152,V23 Back Glass Panel,Vivo,Surat Main Warehouse,20,25,32.0,REORDER NOW - Below threshold
+P0153,V23 Camera Module (Front),Vivo,Surat Main Warehouse,69,54,10.0,Stock OK
+P0154,Narzo 30 Charging Port Flex,Realme,Ahmedabad Depot,65,41,19.0,Stock OK
+P0155,Narzo 30 Speaker Module,Realme,Ahmedabad Depot,44,46,14.5,REORDER NOW - Below threshold
+P0156,Narzo 30 Camera Module (Front),Realme,Surat Main Warehouse,37,30,26.5,Stock OK
+P0157,Narzo 30 Battery,Realme,Ahmedabad Depot,57,34,12.5,Stock OK
+P0158,Narzo 30 SIM Tray,Realme,Ahmedabad Depot,26,22,17.0,Stock OK
+P0159,Narzo 30 Power Button Flex,Realme,Ahmedabad Depot,55,38,13.0,Stock OK
+P0160,Narzo 50 LCD Display Combo,Realme,Surat Main Warehouse,23,23,29.0,REORDER NOW - Below threshold
+P0161,Narzo 50 Battery,Realme,Ahmedabad Depot,41,48,4.5,REORDER NOW - Below threshold
+P0162,Narzo 50 Camera Module (Rear),Realme,Ahmedabad Depot,85,53,21.5,Stock OK
+P0163,Narzo 50 Microphone Flex,Realme,Ahmedabad Depot,108,49,17.5,Stock OK
+P0164,Narzo 50 SIM Tray,Realme,Ahmedabad Depot,82,55,27.5,Stock OK
+P0165,8 Pro Microphone Flex,Realme,Ahmedabad Depot,94,60,29.0,Stock OK
+P0166,8 Pro Battery,Realme,Ahmedabad Depot,91,52,26.5,Stock OK
+P0167,8 Pro Camera Module (Front),Realme,Ahmedabad Depot,54,53,23.5,Stock OK
+P0168,8 Pro Power Button Flex,Realme,Surat Main Warehouse,107,49,5.5,Stock OK
+P0169,8 Pro Charging Port Flex,Realme,Surat Main Warehouse,56,35,10.0,Stock OK
+P0170,8 Pro Speaker Module,Realme,Ahmedabad Depot,71,26,36.5,Stock OK
+P0171,9 Pro Power Button Flex,Realme,Surat Main Warehouse,19,23,24.0,REORDER NOW - Below threshold
+P0172,9 Pro Camera Module (Rear),Realme,Ahmedabad Depot,109,49,6.5,Stock OK
+P0173,9 Pro Touch Screen Digitizer,Realme,Surat Main Warehouse,51,24,23.5,Stock OK
+P0174,9 Pro Camera Module (Front),Realme,Ahmedabad Depot,87,51,12.0,Stock OK
+P0175,C25 Charging Port Flex,Realme,Surat Main Warehouse,79,50,30.0,Stock OK
+P0176,C25 OLED Display Combo,Realme,Ahmedabad Depot,79,56,29.0,Stock OK
+P0177,C25 Camera Module (Front),Realme,Ahmedabad Depot,111,58,22.5,Stock OK
+P0178,C25 LCD Display Combo,Realme,Surat Main Warehouse,50,32,15.0,Stock OK
+P0179,C25 Speaker Module,Realme,Surat Main Warehouse,32,48,20.0,REORDER NOW - Below threshold

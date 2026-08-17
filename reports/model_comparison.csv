@@ -1,0 +1,7 @@
+model,RMSE,MAPE (%)
+SARIMA,40.66,32.96
+Linear Regression,41.0,32.89
+Prophet,41.41,39.1
+ARIMA,41.6,31.55
+Random Forest,45.7,32.77
+XGBoost,51.03,39.22

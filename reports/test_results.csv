@@ -1,0 +1,11 @@
+test,status,details
+Forecast has no negative predicted demand,PASS,
+Forecast lower_bound <= upper_bound for all rows,PASS,
+Forecast covers exactly 30 future days,PASS,actual rows: 30
+Segment counts sum to total customer count,PASS,
+No customer appears in more than one segment,PASS,
+On-time delivery percentage is between 0 and 100,PASS,
+Composite score is between 0 and 100,PASS,
+All 14 suppliers present in scorecard,PASS,actual: 14
+REORDER NOW rows actually have stock <= reorder level,PASS,
+No duplicate products in alert list,PASS,

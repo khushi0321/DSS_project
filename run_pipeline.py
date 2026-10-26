@@ -11,6 +11,7 @@ NOTEBOOKS = [
     "06_inventory_alerts.ipynb",
     "07_model_comparison.ipynb",
     "08_supplier_score_with_returns.ipynb",
+    "09_testing_validation.ipynb",
 ]
 
 notebook_dir = Path("notebooks")
